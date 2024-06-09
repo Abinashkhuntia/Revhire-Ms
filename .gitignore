@@ -26,6 +26,7 @@
 
 # Ignore .terraformrc and terraform.rc files
 **/.terraformrc
+.terraform.lock.hcl
 **/terraform.rc
 
 # Ignore any other sensitive files
